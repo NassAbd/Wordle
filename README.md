@@ -127,3 +127,8 @@ export default Motus;
 ## Remerciements
 - Merci à l'équipe de Dictionary API pour leur API gratuite.
 - Inspiration tirée du jeu télévisé "Motus".
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
