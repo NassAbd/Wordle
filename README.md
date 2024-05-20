@@ -13,35 +13,6 @@ Wordle est une application de jeu de mots développée en React, inspirée du je
 
 ![Motus Screenshot](./screenshot.png)
 
-## Installation
-
-### Prérequis
-
-- Node.js et npm (Node Package Manager)
-
-### Étapes d'installation
-
-1. Clonez le dépôt :
-
-    ```bash
-    git clone https://github.com/votre_nom_utilisateur/motus.git
-    cd motus
-    ```
-
-2. Installez les dépendances :
-
-    ```bash
-    npm install
-    ```
-
-3. Lancez l'application :
-
-    ```bash
-    npm start
-    ```
-
-L'application sera disponible à l'adresse [http://localhost:3000](http://localhost:3000).
-
 ## Utilisation
 
 1. Ouvrez l'application dans votre navigateur.
