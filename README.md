@@ -11,7 +11,7 @@ Wordle est une application de jeu de mots développée en React, inspirée du je
 
 ## Capture d'écran
 
-![Motus Screenshot](./screenshot.png)
+![Motus Screenshot](./serverBDD/imageWordle1.png)
 
 ## Utilisation
 
