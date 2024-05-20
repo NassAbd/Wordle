@@ -122,3 +122,8 @@ const Motus = ({ mot, updateGame, language }) => {
 };
 
 export default Motus;
+```
+
+## Remerciements
+- Merci à l'équipe de Dictionary API pour leur API gratuite.
+- Inspiration tirée du jeu télévisé "Motus".
